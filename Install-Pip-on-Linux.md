@@ -13,7 +13,7 @@ The version of pip should be printed to the terminal screen.
 
 ___________________________
 
-[Previous : Install Python on Linux](Install-Python-on-Linux)  
-[Next     : Install Make on Linux](Install-Make-on-Linux)
+[Previous : Install Python on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Python-on-Linux.md)  
+[Next     : Install Make on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Make-on-Linux.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
