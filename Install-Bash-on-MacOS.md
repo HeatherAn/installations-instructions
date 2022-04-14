@@ -8,7 +8,7 @@ If your default Shell is zsh, in the terminal you can type `bash` and then the S
 
 ___________________________
 
-[Previous : README](README)  
-[Next     : Install Git on MacOS](Install-Git-on-MacOS)  
+[Previous : README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)  
+[Next     : Install Git on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-MacOS.md)  
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
