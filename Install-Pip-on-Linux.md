@@ -1,3 +1,5 @@
+# Install Pip on Linux
+
 Pip can be downloaded and installed using the terminal in Linux by going through the following command:
 
 `sudo apt-get install python3-pip python-dev` 
