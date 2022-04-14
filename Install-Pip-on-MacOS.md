@@ -20,7 +20,7 @@ The pip version should be printed to the screen of the terminal.
 
 ___________________________
 
-[Previous : Install Python on MacOS](Install-Python-on-MacOS)  
-[Next     : Install Make on MacOS](Install-Make-on-MacOS)
+[Previous : Install Python on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Python-on-MacOS.md)  
+[Next     : Install Make on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Make-on-MacOS.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
