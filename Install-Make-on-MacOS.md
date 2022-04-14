@@ -5,7 +5,7 @@ You will need to have **Xcode** installed (download **Xcode** from the Apple web
 ```
 ___________________________
 
-[Previous : Install Pip on MacOS](Install-Pip-on-MacOS)  
-[Next     : Install VSCode on MacOS](Install-VSCode-on-MacOS)
+[Previous : Install Pip on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Pip-on-MacOS.md)  
+[Next     : Install VSCode on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-VSCode-on-MacOS.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
