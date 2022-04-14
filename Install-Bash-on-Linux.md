@@ -5,7 +5,7 @@ To see if your default shell is Bash type: open a terminal and type `echo $SHELL
 
 ___________________________
 
-[Previous : README](README)  
-[Next     : Install Git on Linux](Install-Git-on-Linux)  
+[Previous : README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)  
+[Next     : Install Git on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-Linux.md)  
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
