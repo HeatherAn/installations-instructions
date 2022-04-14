@@ -21,7 +21,7 @@ In order to install Bash on Windows you need to install **Git** in your work lap
 
 ___________________________
 
-[Previous : README](README)  
-[Next     : Install Git on Windows](Install-Git-on-Windows)
+[Previous : README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)  
+[Next     : Install Git on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-Windows.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
