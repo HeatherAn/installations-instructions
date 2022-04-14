@@ -1,3 +1,5 @@
+# Install VSCode on MacOS
+
 Follow instructions defined [here](https://code.visualstudio.com/docs/setup/mac)
 
 **Make sure Visual Studio Code is added to your PATH.** Verify this by typing `code` in the Terminal. This should launch VSCode.
@@ -17,6 +19,7 @@ Install the following VScode extensions:
 
 You can follow the video shown [here](https://code.visualstudio.com/learn/get-started/extensions) for more on VSCode extensions.
 
+Note: you can also have VSCode if you install Anaconda (in case of interest see [here](https://docs.anaconda.com/anaconda/install/mac-os/))
 
 ___________________________
 
