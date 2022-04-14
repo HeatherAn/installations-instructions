@@ -1,3 +1,5 @@
+# Install Git on Linux
+
 If **Git** is not already available on your machine, you can try to install it via your package manager. 
 
 For **Debian/Ubuntu** open a **terminal** and run `sudo apt-get install git`. 
