@@ -19,6 +19,6 @@ You can follow the video shown [here](https://code.visualstudio.com/learn/get-st
 
 ___________________________
 
-[Previous : Install Make on Linux](Install-Make-on-Linux)  
+[Previous : Install Make on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Make-on-Linux.md)  
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
