@@ -22,7 +22,7 @@ If you are using other Linux distribution, chances are you already have Python 3
 sudo dnf install python3
 ```    
 
-
+Note: you can also have Python if you install Anaconda (in case of interest see [here](https://docs.anaconda.com/anaconda/install/linux/)). 
 ___________________________
 
 [Previous : Install Git on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-Linux.md)  
