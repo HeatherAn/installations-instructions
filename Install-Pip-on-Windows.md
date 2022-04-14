@@ -16,7 +16,7 @@ The pip version should be printed in the screen of the terminal.
 
 ___________________________
 
-[Previous : Install Python on Windows](Install-Python-on-Windows)  
-[Next     : Install Make on Windows](Install-Make-on-Windows)
+[Previous : Install Python on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Python-on-Windows.md)  
+[Next     : Install Make on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Make-on-Windows.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
