@@ -19,7 +19,7 @@ The version of the python which you have installed will be displayed if the pyth
 
 # Python Installation NOT via Anaconda
 
-1. Go to the [official site of python] (www.python.org). Move to the **Download for Windows** section. All the available versions of Python will be listed.    
+1. Go to the [official site of python](www.python.org). Move to the **Download for Windows** section. All the available versions of Python will be listed.    
 2. Select a version of Python that works on your Windows version (recommendation: choose Python 3.8 or newer). On clicking **download**, various available executable installers shall be visible with different operating system specifications. Choose the installer which suits your system operating system and download the installer.   
 3. Run the installer.    
 
@@ -35,7 +35,7 @@ The version of the python which you have installed will be displayed if the pyth
 
 ___________________________
 
-[Previous : Install Git on Windows](Install-Git-on-Windows)  
-[Next     : Install Pip on Windows](Install-Pip-on-Windows)
+[Previous : Install Git on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-Windows.md)  
+[Next     : Install Pip on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Pip-on-Windows.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
