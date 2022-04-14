@@ -1,4 +1,6 @@
-In this reposiory you will find instructions to install the following software:
+# Installation Instructions for Bash, Git, Python, Pip, Make and VSCode
+
+In this repository you will find instructions to install the following software:
 
 - Bash ([Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Bash-on-Windows.md), [MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Bash-on-MacOS.md), [Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Bash-on-Linux.md)) 
 - Git  ([Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-Windows.md), [MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-MacOS.md), [Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-Linux.md)) 
