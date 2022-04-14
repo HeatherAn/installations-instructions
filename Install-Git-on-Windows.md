@@ -1,3 +1,5 @@
+# Install Git on Windows
+
 **Git** should be installed on your computer as part of the **Git Bash** install. 
 
 If you skipped the **Install Bash on Windows** part, go to [Install Bash on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Bash-on-Windows.md) and follow the instructions there.
