@@ -21,7 +21,7 @@ The version of the python which you have installed will be displayed if the pyth
 
 ## Python Installation NOT via Anaconda
 
-1. Go to the [official site of python](www.python.org). Move to the **Download for Windows** section. All the available versions of Python will be listed.    
+1. Go to the [official site of python](https://www.python.org). Move to the **Download for Windows** section. All the available versions of Python will be listed.    
 2. Select a version of Python that works on your Windows version (recommendation: choose Python 3.8 or newer). On clicking **download**, various available executable installers shall be visible with different operating system specifications. Choose the installer which suits your system operating system and download the installer.   
 3. Run the installer.    
 
