@@ -57,7 +57,7 @@ You should see a message reporting the version number.
 
 ________________________
 
-[Previous : Install Bash on MacOS](Install-Bash-on-MacOS)  
-[Next     : Install Python on MacOS](Install-Python-on-MacOS)  
+[Previous : Install Bash on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Bash-on-MacOS.md)  
+[Next     : Install Python on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Python-on-MacOS.md)  
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
