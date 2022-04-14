@@ -13,7 +13,7 @@ If you are using Debian distribution, you can install **Make** from the terminal
 
 ___________________________
 
-[Previous : Install Pip on Linux](Install-Pip-on-Linux)  
-[Next     : Install VSCode on Linux](Install-VSCode-on-Linux)
+[Previous : Install Pip on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Pip-on-Linux.md)  
+[Next     : Install VSCode on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-VSCode-on-Linux.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
