@@ -20,6 +20,6 @@ You can follow the video shown [here](https://code.visualstudio.com/learn/get-st
 
 ___________________________
 
-[Previous : Install Make on MacOS](Install-Make-on-MacOS)  
+[Previous : Install Make on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Make-on-MacOS.md)  
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
