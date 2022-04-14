@@ -1,3 +1,5 @@
+# Install Bash on MacOS
+
 The default Shell in some versions of macOS is Bash, so **no need to install anything**. In new versions Zsh is the default Shell. But Bash will also be installed.
 
 To see if your default Shell is Bash: open a terminal (found in `/Applications/Utilities`) and 
