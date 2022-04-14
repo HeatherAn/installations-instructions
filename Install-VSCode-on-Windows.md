@@ -1,3 +1,5 @@
+# Install VSCode on Windows
+
 1. Download the **Visual Studio Code installer for Windows**.   
 2. Once it is downloaded, run the installer (`VSCodeUserSetup-{version}.exe`). This will only take a minute.   
 3. By default, VS Code is installed under `C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code`   
@@ -17,6 +19,9 @@ Install the following VScode extensions:
 * Live Share
 
 You can follow the video shown [here](https://code.visualstudio.com/learn/get-started/extensions) for more on VSCode extensions.  
+
+Note: you can also have VSCode if you install Anaconda (in case of interest see [here](https://docs.anaconda.com/anaconda/install/windows/))
+
 
 ___________________________
 
