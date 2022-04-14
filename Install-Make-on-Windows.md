@@ -15,10 +15,10 @@ To install **make** in Windows Git-Bash:
             - `cat1` has a `make.1` file   
             - `man1` has a `make.1` file   
 
-Now you will have to copy the contents of each one of those directories to the respective directory (named the same) where `git` is installed. For this first do: `where git`. This will show you *where* the `git.exe` is in your device. You will probably see more than one directory path prompted to the screen of the terminal. Look for the directory path that has `Git\mingw64\bin` in it. Let us say this is `/c/Users/your_net_id/AppData/Local/Programs/Git/mingw64/bin/git.exe`. Then go to the `/c/Users/your_net_id/AppData/Local/Programs/Git/mingw64` directory by doing:  
+Now you will have to copy the contents of each one of those directories to the respective directory (named the same) where `git` is installed. For this first do: `where git`. This will show you *where* the `git.exe` is in your device. You will probably see more than one directory path prompted to the screen of the terminal. Look for the directory path that has `Git\mingw64\bin` in it. Let us say this is `~/AppData/Local/Programs/Git/mingw64/bin/git.exe`. Then go to the `~/AppData/Local/Programs/Git/mingw64` directory by doing:  
 
 ```
-    cd /c/Users/your_net_id/AppData/Local/Programs/Git/mingw64
+    cd ~/AppData/Local/Programs/Git/mingw64
     ls
 ```
 
@@ -47,13 +47,13 @@ Go with the `cd` command to the directory where you unzipped the .zip file (e.g.
     mv info/ ~/AppData/Local/Programs/Git/mingw64/share/
     
 ```
-- You can now go back to where you initially unzipped the file (e.g., `cd ~/Downloads`) and delete the zip file and all unzipped contents by using `rm` command (see [Typing Bash Commands section](https://gitlab.tudelft.nl/ascm/start-here/-/wikis/Typing-Bash-Commands#to-delete-filesdirectories-rm-command)).   
+- You can now go back to where you initially unzipped the file (e.g., `cd ~/Downloads`) and delete the zip file and all unzipped contents.
 - Close the terminal and open it again, so that it now recognizes the **make** command.
 
 
 ___________________________
 
-[Previous : Install Pip on Windows](Install-Pip-on-Windows)  
-[Next     : Install VSCode on Windows](Install-VSCode-on-Windows)
+[Previous : Install Pip on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Pip-on-Windows.md)  
+[Next     : Install VSCode on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-VSCode-on-Windows.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
