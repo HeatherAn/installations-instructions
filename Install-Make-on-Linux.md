@@ -1,3 +1,4 @@
+# Install Make on Linux
 
 **Make** is a standard tool on most Linux systems and should already be available in your Linux installation. Check if you already have **Make** installed by typing in the terminal:
 
