@@ -1,3 +1,5 @@
+# Install Bash on Windows
+
 In order to install Bash on Windows you need to install **Git** in your work laptop/station.
 
 -	Download the **Git** for [**Windows installer**](https://gitforwindows.org/).    
