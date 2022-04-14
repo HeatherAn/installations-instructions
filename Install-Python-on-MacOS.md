@@ -18,7 +18,7 @@ Go to your terminal and type `python3 --version`. If Python 3 has been installed
 
 ___________________________
 
-[Previous : Install Git on MacOS](Install-Git-on-MacOS)  
-[Next     : Install Pip on MacOS](Install-Pip-on-MacOS)
+[Previous : Install Git on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Git-on-MacOS.md)  
+[Next     : Install Pip on MacOS](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Pip-on-MacOS.md)
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
