@@ -20,6 +20,6 @@ You can follow the video shown [here](https://code.visualstudio.com/learn/get-st
 
 ___________________________
 
-[Previous : Install Make on Windows](Install-Make-on-Windows)  
+[Previous : Install Make on Windows](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Make-on-Windows.md)  
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
