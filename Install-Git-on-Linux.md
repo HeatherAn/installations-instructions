@@ -15,7 +15,7 @@ You should see a message reporting the version number.
 
 ________________________
 
-[Previous : Install Bash on Linux](Install-Bash-on-Linux)  
-[Next     : Install Python on Linux](Install-Python-on-Linux)  
+[Previous : Install Bash on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Bash-on-Linux.md)  
+[Next     : Install Python on Linux](https://github.com/HeatherAn/installations-instructions/blob/main/Install-Python-on-Linux.md)  
 
-[Go back to README](README)
+[Go back to README](https://github.com/HeatherAn/installations-instructions/blob/main/README.md)
