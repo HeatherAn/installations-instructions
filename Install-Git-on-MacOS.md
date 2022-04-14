@@ -1,4 +1,6 @@
-# For more recent MacOS versions
+# Install Git on MacOS
+
+## For more recent MacOS versions
 
 If you are using MacOS 10.15 ("Catalina"), 10.16 ("Big Sur), or 10.17 ("Monterey"), you 
 will need to give "Full Disk Access" permissions to the Terminal. If you're using an earlier 
@@ -40,7 +42,7 @@ Install Git on your Mac using one of the following methods:
 - Download the latest version of **Command Line Tools** for **XCode** and install.  
 
 
-# For older MacOS versions
+## For older MacOS versions
 
 For OS X 10.9 and higher, install **Git** by downloading and running the most recent "mavericks" installer from this [list](https://sourceforge.net/projects/git-osx-installer/files/). Because this installer is not signed by the developer, you may have to right click (**control** click) on the `.pkg` file; click **Open**; and click **Open on the pop up window**. 
 
