@@ -16,7 +16,7 @@ Install the following VScode extensions:
 * Remote Development
 * Live Share
 
-You can follow the video shown [here](https://code.visualstudio.com/learn/get-started/extensions) for more on VSCode extensions.
+You can follow the instructions [here](https://code.visualstudio.com/docs/editor/extension-marketplace) on how to (un)install VSCode extensions.  
 
 Note: you can also have VSCode if you install Anaconda (in case of interest see [here](https://docs.anaconda.com/anaconda/install/linux/)).
 ___________________________
