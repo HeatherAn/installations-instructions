@@ -6,7 +6,7 @@ You can get Python via Anaconda. Or you can install Python separately.
 
 1. Go to the [Anaconda download website](https://www.anaconda.com/products/individual#Downloads).  
 2. Download the **64-Bit Graphical Installer for Windows**.  
-3. Install **Python 3** by running the **Anaconda Installer**, using most of all of the defaults for installation. The only default setting you may have to change is the one to **Add Anaconda to my PATH environment variable**. Please make sure to select that option, so that Anaconda is added to your `$PATH`.  
+3. Install **Python 3** by running the **Anaconda Installer**, using most of all of the defaults for installation. The only default setting you may have to change is the one to **Add installation to my PATH environment variable**. Please make sure to select that option, so that Anaconda is added to your `$PATH`.  
 
 ### Verify
 
