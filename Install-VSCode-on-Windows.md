@@ -28,7 +28,8 @@ Note: you can also have VSCode if you install Anaconda (in case of interest see 
 In VSCode:  
 
 - Open a terminal by going to the top menu: `Terminal` > `New Terminal`  
-- At the top right corner of the terminal, next to the `+` sign, there will be a drop down menu. Make sure to select **Git Bash** (**Git Bash** has to be already installed in the system and added to the `PATH` environment variable). If **Git Bash** is not shown as default, you can set it by selecting from the drop down menu `Configuration Terminal Settings`. In User Features look for `Terminal > Integrated > Default profile: Windows`. Select **Git Bash** from the drop down menu. Then **Git Bash** will be the default terminal within VSCode.  
+- At the top right corner of the terminal, next to the `+` sign, there will be a drop down menu. Make sure to select **Git Bash** (**Git Bash** has to be already installed in the system and added to the `PATH` environment variable).  
+- To open a **Git Bash** terminal by default within VSCode, go to `View` > `Command Palette` and type `Terminal: Configure Terminal Settings`. The `User` tab opens up. Wihitn `Features` look for `Terminal > Integrated > Default profile: Windows`, and select **Git Bash** from the drop down menu. From now onwards, **Git Bash** will be the default terminal within VSCode.  
 
 ___________________________
 
